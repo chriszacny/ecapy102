@@ -34,5 +34,5 @@ My primary goal is to attempt to work through the basic online Python 3.5 tutori
 Secondarily, I want you to write a lot of code. I'll be presenting some homework problems for you to work on, and while of course they aren't required, I'd really recommend you do them. You may have heard it over and over again, but practice makes perfect. And, once you practice for a solid eight weeks, it will be really easy to pick back up, even if you drop it for awhile.
 
 ## What Next?
-See the wiki to get started.
+See the [wiki](https://github.com/chriszacny/ecapy102/wiki) to get started.
 
