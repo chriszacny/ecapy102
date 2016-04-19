@@ -23,6 +23,7 @@ Namely:
 * You should be comfortable with some simple command line commands.
 * You should be comfortable with an advanced text editor like Sublime Text, Atom, or perhaps an IDE like Visual Studio or IntelliJ IDEA.
 * You should understand and be able to explain in a basic manner: boolean logic, loops, variable assignment, and strings.
+* Finally, you should be curious (I don't like the word "passionate" very much) about and like to tinker with technology. Since you are already here, you get this one by default!
 
 If you possess only some of those traits, not to worry. I can work with you and get you caught up. If most of the above sounds completely foreign to you, you might want to sign up for Python 101, or simply consider picking up a beginners book like [Learning Python](http://www.amazon.com/Learning-Python-Edition-Mark-Lutz/dp/1449355730).
 
