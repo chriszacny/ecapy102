@@ -1,0 +1,6 @@
+{
+    "hotels": [
+        {"name": "Hilton", "city": "Chicago"},
+        {"name": "Best Western", "city": "Seattle"}
+    ]
+}

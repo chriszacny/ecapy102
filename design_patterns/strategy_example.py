@@ -1,5 +1,6 @@
 __author__ = 'czacny'
 
+import requests
 
 def get_mock_hotel_data():
     data = []
